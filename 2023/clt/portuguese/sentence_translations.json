@@ -1,7 +1,7 @@
 [
  {
   "input": "This is a Galton board. ",
-  "translatedText": "Esta é uma placa Galton. ",
+  "translatedText": "Isto é um Tabuleiro de Galton. ",
   "model": "nmt",
   "time_range": [
    0.0,
@@ -10,7 +10,7 @@
  },
  {
   "input": "Maybe you've seen one before, it's a popular demonstration of how, even when a single event is chaotic and random, with an effectively unknowable outcome, it's still possible to make precise statements about a large number of events, namely how the relative proportions for many different outcomes are distributed. ",
-  "translatedText": "Talvez você já tenha visto isso antes, é uma demonstração popular de como, mesmo quando um único evento é caótico e aleatório, com um resultado efetivamente incognoscível, ainda é possível fazer afirmações precisas sobre um grande número de eventos, ou seja, como as proporções relativas pois muitos resultados diferentes são distribuídos. ",
+  "translatedText": "Talvez você já tenha visto isso antes, é uma demonstração popular de como, mesmo quando um único evento é caótico e aleatório, com um resultado efetivamente desconhecido, ainda é possível fazer afirmações precisas sobre um grande número de eventos, nomeadamente, como as proporções relativas de muitos resultados diferentes são distribuídas. ",
   "model": "nmt",
   "time_range": [
    2.52,
@@ -19,7 +19,7 @@
  },
  {
   "input": "More specifically, the Galton board illustrates one of the most prominent distributions in all of probability, known as the normal distribution, more colloquially known as a bell curve, and also called a Gaussian distribution. ",
-  "translatedText": "Mais especificamente, o quadro de Galton ilustra uma das distribuições mais proeminentes de todas as probabilidades, conhecida como distribuição normal, mais coloquialmente conhecida como curva em sino, e também chamada de distribuição gaussiana. ",
+  "translatedText": "Mais especificamente, o Tabuleiro de Galton ilustra uma das distribuições mais proeminentes de todas as probabilidades, conhecida como distribuição normal, mais coloquialmente conhecida como curva em forma de sino, também chamada de distribuição Gaussiana. ",
   "model": "nmt",
   "time_range": [
    20.38,
@@ -55,7 +55,7 @@
  },
  {
   "input": "Now our topic for today is one of the crown jewels in all of probability theory, it's one of the key facts that explains why this distribution is as common as it is, known as the central limit theorem. ",
-  "translatedText": "Agora, nosso tópico de hoje é uma das joias da coroa de toda a teoria das probabilidades, é um dos principais fatos que explica por que essa distribuição é tão comum como é, conhecida como teorema do limite central. ",
+  "translatedText": "Agora, o nosso tópico de hoje é uma das joias da coroa de toda a teoria das probabilidades, é um dos principais factos que explica por que essa distribuição é tão comum como é, conhecida como teorema do limite central. ",
   "model": "nmt",
   "time_range": [
    65.58,
